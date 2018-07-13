@@ -49,6 +49,8 @@ Then retry the apmplanner installation again:
 ::
 
     sudo dpkg -i apm_planner*.deb
+    
+If there are no errors then you start the apm planner by executing "apmplanner2" command in the terminal.
 
 Create a desktop icon
 =====================
